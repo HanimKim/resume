@@ -1,3 +1,3 @@
 # resume 2022.03
 
-김하님
+<img src="/static/hanim_selfie.jpg" width="450px" height="300px" title="hanim_selfie" alt="image_of_resume"></img><br/>
