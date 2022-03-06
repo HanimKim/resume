@@ -21,9 +21,9 @@
 
 # Experience
 
-[KB데이타시스템](https://www.kds.co.kr/)
-KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 IT 전문기업
-2020.07 ~ 현재
+[KB데이타시스템](https://www.kds.co.kr/)   
+KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 IT 전문기업   
+(2020.07 ~ 현재)
 
 * MSP 사업에서 통합 모니터링 시스템인 Rhea 개발 (2021.09 ~ 현재)
 * KB SSO PlugIn 개발 (2021.06 ~ 2021.08)
@@ -31,9 +31,9 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
 * 국민은행 리브부동산 리뉴얼 프로젝트 (2020.07 ~ 2021.02)
 
 
-[시루정보](www.seeroo.co.kr)
-금융권 SI,SM 기업
-2018.02 ~ 2020.05
+[시루정보](www.seeroo.co.kr)   
+금융권 SI,SM 기업   
+(2018.02 ~ 2020.05)   
 
 * 국민카드 결제 솔루션 이관 프로젝트 (2020.04~2020.05)
 * 신한카드 웹/앱 통합 프로젝트 (2019.12 ~ 2020.03)
@@ -51,15 +51,17 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
 업무에 사용중이나 사용했던 기술 혹은 툴들 입니다.
 
 ### Backend
-* Java, Spring Boot, Spring MVC, Spring Batch, Spring Security, Python
+* Java, Spring Boot, Spring MVC, Spring Batch, Spring Security
 * JPA, Querydsl, Hibernate
 * Gradle, Maven
+* Python
 * Eclipse, IntelliJ, Visual Studio Code
 
 ### DevOps
 * MySQL, MariaDB, Oracle
 * Jenkins
 * RDS, EC2, Cloud Watch
+* Docker, K8S, Helm Chart
 * Nginx, tomcat
 * Linux Centos
 
