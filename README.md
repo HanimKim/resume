@@ -71,6 +71,7 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
 * Linux Centos
 * Prometheus, PromQL, Grafana
 * spider framework(국민카드의 framework)
+* scouter
 
 ### Frontend
 * Javascript, html/css,  DevOn(LG CNS의 framework), vue
