@@ -74,7 +74,7 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
 * scouter
 
 ### Frontend
-* Javascript, html/css,  DevOn(LG CNS의 framework), vue
+* Javascript, html/css,  DevOn(LG CNS의 framework), typescript
 
 
 # Project
