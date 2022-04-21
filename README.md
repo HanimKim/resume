@@ -1,4 +1,4 @@
-# resume 2022.03
+# resume 2022.04
 
 <img src="/static/hanim_selfie.jpg" width="300px" height="300px" title="hanim_selfie" alt="image_of_resume"></img><br/>
 
@@ -62,9 +62,9 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
 * Gradle, Maven
 * Python
 * Eclipse, IntelliJ, Visual Studio Code
+* MySQL, MariaDB, Oracle
 
 ### DevOps
-* MySQL, MariaDB, Oracle
 * Jenkins
 * RDS, EC2, Cloud Watch
 * Docker, K8S, Helm Chart
@@ -72,10 +72,10 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
 * Linux Centos
 * Prometheus, PromQL, Grafana
 * spider framework(국민카드의 framework)
-* scouter
+* Scouter
 
 ### Frontend
-* Javascript, html/css,  DevOn(LG CNS의 framework), typescript
+* Javascript, html/css,  DevOn(LG CNS의 framework), Typescript
 
 
 # Project
