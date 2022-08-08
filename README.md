@@ -59,11 +59,13 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
 
 ### Backend
 * Java, Spring Boot, Spring MVC, Spring Batch, Spring Security
+* Spring Cloud Gateway, OAuth 2.0, Eureka
 * JPA, Querydsl, Hibernate
 * Gradle, Maven
 * Python
 * Eclipse, IntelliJ, Visual Studio Code
 * MySQL, MariaDB, Oracle
+* Redis
 
 ### DevOps
 * Jenkins
@@ -73,7 +75,7 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
 * Linux Centos
 * Prometheus, PromQL, Grafana
 * spider framework(국민카드의 framework)
-* Scouter
+* Scouter, Pinpoint
 
 ### Frontend
 * Javascript, html/css,  DevOn(LG CNS의 framework), Typescript
