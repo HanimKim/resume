@@ -81,7 +81,7 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
 
 # Project
 
-### KB SaaS Platform - Bard 개발
+### KB SaaS Platform인 Bard 개발
 * 기간 : 2022.07 ~ 현재
 * 소개
   * KB 계열사에 필요한 다양한 서비스를 편리하게 제공하기 위한 SaaS Platform
