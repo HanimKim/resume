@@ -32,7 +32,7 @@
 KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 IT 전문기업   
 (2020.07 ~ 현재)
 
-* [KB SaaS Platform인 Bard 개발 (2022.07 ~ 현재)](#KB-SaaS-Platform-Bard-개발)
+* [KB SaaS Platform인 Bard 개발 (2022.07 ~ 현재)](#kb-saas-platform인-bard-개발)
 * [MSP 사업에서 통합 모니터링 시스템인 Rhea 개발 (2021.08 ~ 2022.06)](#MSP-사업에서-통합-모니터링-시스템인-rhea-개발)
 * [Space One 개선 프로젝트 (2021.06 ~ 2021.08)](#space-one-개선-프로젝트)
 * [KB금융그룹 자산운용 DT 프로젝트 (2021.03 ~ 2021.05)](#kb금융그룹-자산운용-dt-프로젝트)
