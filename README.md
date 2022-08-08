@@ -1,4 +1,4 @@
-# resume 2022.06
+# resume 2022.07
 
 <img src="/static/hanim_selfie.jpg" width="300px" height="300px" title="hanim_selfie" alt="image_of_resume"></img><br/>
 
@@ -32,7 +32,8 @@
 KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 IT 전문기업   
 (2020.07 ~ 현재)
 
-* [MSP 사업에서 통합 모니터링 시스템인 Rhea 개발 (2021.08 ~ 현재)](#MSP-사업에서-통합-모니터링-시스템인-rhea-개발)
+* [KB SaaS Platform인 Bard 개발 (2022.07 ~ 현재)](#KB-SaaS-Platform-Bard-개발)
+* [MSP 사업에서 통합 모니터링 시스템인 Rhea 개발 (2021.08 ~ 2022.06)](#MSP-사업에서-통합-모니터링-시스템인-rhea-개발)
 * [Space One 개선 프로젝트 (2021.06 ~ 2021.08)](#space-one-개선-프로젝트)
 * [KB금융그룹 자산운용 DT 프로젝트 (2021.03 ~ 2021.05)](#kb금융그룹-자산운용-dt-프로젝트)
 * [국민은행 KB부동산 리뉴얼 프로젝트 (2020.07 ~ 2021.02)](#국민은행-kb부동산-리뉴얼-프로젝트)
@@ -80,8 +81,21 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
 
 # Project
 
+### KB SaaS Platform - Bard 개발
+* 기간 : 2022.07 ~ 현재
+* 소개
+  * KB 계열사에 필요한 다양한 서비스를 편리하게 제공하기 위한 SaaS Platform
+  * 하나의 서비스라기 보다는 각종 서비스를 연결해주는 gateway 역할
+* 역할
+  * Spring Cloud 관련 기술 연구(Gateway, Eureka, Redis Cache, Oauth 2.0, etc.)
+  * Auth Server 아키텍처 구성 및 개발
+    * 공통 Framework 구성
+    * Spring Cloud OAuth를 사용한 인증/인가 개발
+    * OAuth 2.0 과 비슷한 인증/인가 직접 개발
+  * Spring Cloud Gateway filter 개발
+
 ### MSP 사업에서 통합 모니터링 시스템인 Rhea 개발
-* 기간 : 2021.08 ~ 현재
+* 기간 : 2021.08 ~ 2022.06
 * 소개 
   * 클라우드 환경과 금융권 내부 환경의 자원들의 현황을 통합하여 모니터링 할 수 있는 시스템
   * Prometheus, Grafana, PromQL 등의 오픈 소스를 활용하여 시계열의 매트릭 데이터 수집
@@ -90,6 +104,7 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
   * 통합 모니터링에 필요한 여러 API 개발
   * Prometheus, PromQL로 수집되는 시계열 매트릭 데이터들을 저장하는 Batch 개발
   * 어드민 화면 개발
+  * 쿼리 튜닝과 로직 개선을 통한 성능 개선
   * 초기 환경 구성에 기여(MSA, 멀티 모듈, JPA, Querydsl, Gradle  등등)
 
 ### Space One 개선 프로젝트 
