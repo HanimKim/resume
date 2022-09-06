@@ -1,4 +1,4 @@
-# resume 2022.08
+# resume 2022.09
 
 <img src="/static/hanim_selfie.jpg" width="300px" height="300px" title="hanim_selfie" alt="image_of_resume"></img><br/>
 
@@ -59,12 +59,12 @@ KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 I
 
 ### Backend
 * Java, Spring Boot, Spring MVC, Spring Batch, Spring Security
-* Spring Cloud Gateway, OAuth 2.0, Eureka
+* Spring Cloud Gateway, OAuth 2.0, Eureka, WebFlux
 * JPA, Querydsl, Hibernate
 * Gradle, Maven
 * Python
 * Eclipse, IntelliJ, Visual Studio Code
-* MySQL, MariaDB, Oracle
+* MySQL, MariaDB, Oracle, R2DBC
 * Redis
 
 ### DevOps
