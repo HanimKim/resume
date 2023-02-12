@@ -1,4 +1,4 @@
-# resume 2022.09
+# resume 2023.02
 
 <img src="/static/hanim_selfie.jpg" width="300px" height="300px" title="hanim_selfie" alt="image_of_resume"></img><br/>
 
@@ -9,7 +9,7 @@
 
 # About Me
 
-**새로운 기술을 배우는 것에 즐거움을 느끼는 Java & Spring 기반의 5년차 백엔드 개발자 김하님 입니다.**
+**새로운 기술을 배우는 것에 즐거움을 느끼는 Java & Spring 기반의 6년차 백엔드 개발자 김하님 입니다.**
 
 항상 개발을 하는 것이 마치 게임을 하는 것과 비슷하다고 생각하며, 즐기자는 마인드로 일을 하고 있습니다.
 개발자를 시작한 초장기의 경력들이 폐쇠적인 환경에서 진행한 금융권의 SI 프로젝트들이라 아직 기술의 스펙트럼이 많이 부족합니다.
@@ -91,7 +91,7 @@ JPA를 많이 사용하여, ORM 사용에 익숙해지는 경험이 되었습니
 * Jenkins
 * RDS, EC2, Cloud Watch
 * Docker, K8S, Helm Chart
-* Nginx, tomcat
+* Nginx, tomcat, Harbor
 * Linux Centos
 * Prometheus, PromQL, Grafana
 * Spider Framework(국민카드의 framework)
@@ -117,6 +117,7 @@ JPA를 많이 사용하여, ORM 사용에 익숙해지는 경험이 되었습니
   * Spring Cloud Gateway filter 개발
   * pinpoint 아키텍처 분석 및 구축
   * jmeter를 통한 시나리오 테스트 및 성능 테스트
+  * Docker, K8s, Helm Chart를 이용한 Redis 설정 및 설치
 
 ### MSP 사업에서 통합 모니터링 시스템인 Rhea 개발
 * 기간 : 2021.08 ~ 2022.06
