@@ -15,7 +15,7 @@
 개발자를 시작한 초장기의 경력들이 폐쇠적인 환경에서 진행한 금융권의 SI 프로젝트들이라 아직 기술의 스펙트럼이 많이 부족합니다.
 하지만 항상 새로운 기술을 배우는 것에 관심이 많아, 현재도 계속 부족한 부분을 학습을 하며, 일을 하다가 새로운 기술을 습득하면 뿌듯함을 느낍니다.
 
-근무하던 회사에서 애자일 방식으로 업무를 진행하였었는데, 스크럼 마스터를 담당하여 각종 회의와 전체적인 업무의 흐름을 주도한 경험이 있습니다.
+근무하던 회사중에 애자일 방식으로 업무를 진행하였었는데, 스크럼 마스터를 담당하여 각종 회의와 전체적인 업무의 흐름을 주도한 경험이 있습니다.
 스크럼 마스터를 자의로 한 것이며, 그정도로 효율적으로 협업하고 일을 하는 것에 관심이 있습니다.
 
 같이 일한 좋은 팀장님의 영향으로 일을 할 때 주어진 업무만 하는 것이 아니라, 누락된 부분, 더 효율적인 방법 등이 무엇인기 고민하며
@@ -31,8 +31,8 @@
 ### [다올투자증권](https://www.daolsecurities.com/top.jsp)
 (2023.05 ~ 현재)
 
-* 그룹웨어 시스템 운영 (2023.05 ~ 현재)
-* 구)그룹웨어 서비스 이관 프로젝트 (2023.05 ~ 현재)
+* [그룹웨어 시스템 운영 (2023.05 ~ 현재)](#그룹웨어-시스템-운영)
+* [구)그룹웨어 서비스 이관 프로젝트 (2023.05 ~ 현재)](#구그룹웨어-서비스-이관-프로젝트)
 
 ### [KB데이타시스템](https://www.kds.co.kr/)   
 KB금융그룹의 IT 선진화 및 혁신을 이끌기 위해 설립된 금융 IT 전문기업   
@@ -87,7 +87,7 @@ JPA를 많이 사용하여, ORM 사용에 익숙해지는 경험이 되었습니
 * Java, Spring Boot, Spring MVC, Spring Batch, Spring Security
 * Spring Cloud Gateway, OAuth 2.0, Eureka, WebFlux
 * JPA, Querydsl, Hibernate
-* Gradle, Maven
+* Gradle, Maven, Ant
 * Python
 * Eclipse, IntelliJ, Visual Studio Code
 * MySQL, MariaDB, Oracle, R2DBC
@@ -104,7 +104,10 @@ JPA를 많이 사용하여, ORM 사용에 익숙해지는 경험이 되었습니
 * Scouter, Pinpoint, Jmeter
 
 ### Frontend
-* Javascript, html/css,  DevOn(LG CNS의 framework), Typescript
+* Javascript, html/css
+* DevOn(LG CNS의 framework)
+* Typescript
+* jsp, jstl
 
 
 # Project
@@ -113,10 +116,20 @@ JPA를 많이 사용하여, ORM 사용에 익숙해지는 경험이 되었습니
 * 기간 : 2023.05 ~ 현재
 * 소개
   * 다올투자증권뿐만 아니라 다올의 모든 계열사에 사용하는 그룹웨어 서비스 운영
+  * 그룹웨어 서비스의 소스는 메인으로 비즈웰이라는 업체의 프레임워크와 back-end는 java, frnot-end는 jsp로 구성
 * 역할
+  * 임직원의 요청에 의한 수정 개발 및 문의에 대한 F/U
+  * 그룹웨어 파트의 파트장 담당
   
-### 구)그룹웨어 서비스 이관 프로젝트 
+### 구그룹웨어 서비스 이관 프로젝트 
 * 기간 : 2023.05 ~ 현재
+* 소개
+  * asp와 c#으로 되어있는 구)그룹웨어서 서비스를 java spring-boot와 react 기반으로 이관 개발하는 프로젝트
+  * 일부 구)그룹웨어 서비스는 회사내에 파트원들과 자체 개발
+  * 일부 구)그룹웨어 서비스는 1Z Labs이라는 업체와 AI 봇을 활용하여 서비스를 이관 개발
+* 역할
+  * java spring-boot 기반의 back-end 담당.
+  * jenkins, github, nexus를 활용한 CI/CD 설치, 파이프라인 및 운용 담당.
 
 ### KB SaaS Platform인 Bard 개발
 * 기간 : 2022.07 ~ 2023.04
